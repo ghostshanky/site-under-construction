@@ -205,7 +205,7 @@
         emailInput.focus();
         return;
       }
-      const emailRegex = /^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/;
+      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
       if (!emailRegex.test(email)) {
         message.textContent = 'Please enter a valid email address.';
         emailInput.focus();
