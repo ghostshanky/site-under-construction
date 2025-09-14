@@ -1,0 +1,8 @@
+{
+  "name": "kunal-sable-site",
+  "version": "1.0.0",
+  "description": "Under construction site with email subscription",
+  "dependencies": {
+    "pg": "^8.11.0"
+  }
+}
