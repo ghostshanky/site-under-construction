@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1080" height="1079">
+<defs>
+<mask id="circleMask">
+<circle cx="540" cy="539.5" r="539.5" fill="white" />
+</mask>
+</defs>
+<g mask="url(#circleMask)">
+
+<path d="M0,0 L1080,0 L1080,1079 L0,1079 Z" fill="#ecf5ff" />
+<path d="M0,0 L144,0 L-174,360 L-178,498 L-296,498 L-296,336 L-2,2 Z" fill="#384245" transform="translate(617,289)" />
+<path d="M0,0 L139,197 L1,197 L-75,89.83 Z" fill="#384245" transform="translate(627,594)" />
+<path d="M0,0 L117,0 L117,42 L0,170 Z" fill="#384245" transform="translate(322,287)" size ="1.7" />
+</g>
+</svg>
